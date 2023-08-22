@@ -1,0 +1,6 @@
+export const FAKE_API_BASE_URL = "https://fakestoreapi.com/"
+export const PRODUCT_LIST_ENDPOINT = "products"
+export const AUTH_USER_ENDPOINT = "http://localhost:5000/api"
+export const PRODUCTS = "products"
+export const CATEGORY = "category"
+export const MY_TOKEN = "my-token"
